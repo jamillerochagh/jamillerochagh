@@ -1,6 +1,6 @@
 # Hi, I'm Jamille Ghazaleh
 
-**Data & BI Professional | Analytics Engineering **
+Data & BI Professional | Analytics Engineering
 
 I work at the intersection of **data analytics, experimentation, visualization, and engineering**, turning data into reliable insights and decision-making tools.
 
